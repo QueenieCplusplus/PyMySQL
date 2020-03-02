@@ -1,0 +1,27 @@
+PyMySQL
+#PyMySQL in c:\...\site-packages (0.9.3)
+sqlacodegen
+#Successfully installed inflect-4.1.0 sqlacodegen-2.1.0
+
+requests
+derpy
+pymysql
+sqlalchemy
+
+xlrd
+xlwings; sys_platform == 'win32'
+xlsxwriter
+
+bs4==4.8.2
+pandas==1.14.0
+wget
+pyexcel_ods==1.4.1
+defusedxml==0.6.0
+future==0.18.2
+streamz
+html5lib==1.0.1
+
+pcparser
+# cffi 1.14.0 requires pycparser
+
+datetime==41.2.0
