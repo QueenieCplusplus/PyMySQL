@@ -114,3 +114,8 @@ Pymysql
 | c        | Single character        |     i || s     |
 | s        | String                  |                |
 | r        | String                  |                |
+
+> dialects
+
+<https://docs.sqlalchemy.org/en/13/dialects/mysql.html#module-sqlalchemy.dialects.mysql.pymysql>
+
