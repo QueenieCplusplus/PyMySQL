@@ -122,3 +122,7 @@ Pymysql
 > SQLAlchemy is ORM API
 
  ![orm](https://i2.kknews.cc/SIG=3a21e28/ctp-vzntr/043qo55068n04s6594o6r9r5s62qo93p.jpg)
+ 
+> see sample code
+ 
+ https://github.com/QueenieCplusplus/SQLAlchemy_app/blob/master/README.md
