@@ -38,6 +38,10 @@ Pymysql
             query = {'charset': 'utf8mb4'}
             )
             
+> Session & Connection
+
+http://einverne.github.io/post/2017/05/sqlalchemy-session.html
+            
             
 > ORM model file out put
 
